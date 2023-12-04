@@ -1,5 +1,5 @@
 {
-	"name": "boilerplate-app-router",
+	"name": "manage-landing-page",
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
@@ -25,6 +25,7 @@
 		"react-dom": "18.2.0",
 		"react-icons": "^4.11.0",
 		"react-redux": "^8.1.3",
+		"react-social-icons": "^5.15.0",
 		"styled-components": "^6.0.8",
 		"styled-media-query": "^2.1.2"
 	},
