@@ -1,3 +1,7 @@
+export * from "./Button"
 export * from "./Container"
+export * from "./Footer"
+export * from "./FooterBanner"
 export * from "./Grid"
+export * from "./Logo"
 export * from "./MediaMatch"
